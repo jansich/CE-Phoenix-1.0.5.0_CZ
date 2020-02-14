@@ -10,20 +10,20 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'My Account');
+define('NAVBAR_TITLE', 'Můj účet');
 
-define('OVERVIEW_TITLE', 'Overview');
-define('OVERVIEW_SHOW_ALL_ORDERS', '(show all orders)');
-define('OVERVIEW_PREVIOUS_ORDERS', 'Previous Orders');
+define('OVERVIEW_TITLE', 'Přehled');
+define('OVERVIEW_SHOW_ALL_ORDERS', '(zobrazit všechny objednávky)');
+define('OVERVIEW_PREVIOUS_ORDERS', 'Předchozí objednávky');
 
-define('MY_ACCOUNT_TITLE', 'Account');
-define('MY_ACCOUNT_INFORMATION', 'Account information');
-define('MY_ACCOUNT_ADDRESS_BOOK', 'Address book');
-define('MY_ACCOUNT_PASSWORD', 'Account password');
+define('MY_ACCOUNT_TITLE', 'Účet');
+define('MY_ACCOUNT_INFORMATION', 'Zobrazit nebo změnit údaje o mém účtu.');
+define('MY_ACCOUNT_ADDRESS_BOOK', 'Zobrazit nebo změnit záznamy v adresáři.');
+define('MY_ACCOUNT_PASSWORD', 'Změnit heslo k účtu');
 
-define('MY_ORDERS_TITLE', 'Orders');
-define('MY_ORDERS_VIEW', 'View orders');
+define('MY_ORDERS_TITLE', 'Objednávky');
+define('MY_ORDERS_VIEW', 'Zobrazit objednávky');
 
-define('EMAIL_NOTIFICATIONS_TITLE', 'Notifications');
-define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Newsletters');
-define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Product notifications');
+define('EMAIL_NOTIFICATIONS_TITLE', 'Upozornění');
+define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Nastavení zasílání informací o novinkách');
+define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Nastavení zasílání informací o vybraných produktech');
