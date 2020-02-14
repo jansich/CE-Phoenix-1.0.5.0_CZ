@@ -47,11 +47,11 @@ define('TEXT_NO_PRODUCTS', 'Bohužel žádný produkt neodpovídá Vašemu vyhle
 define('ERROR_AT_LEAST_ONE_INPUT', 'Alespoň jedno pole musí být vybráno.');
 define('ERROR_INVALID_FROM_DATE', 'Špatné datum od.');
 define('ERROR_INVALID_TO_DATE', 'Špatné datum do.');
-define('ERROR_TO_DATE_LESS_THAN_FROM_DATE', 'To Date must be greater than or equal to From Date.');
-define('ERROR_PRICE_FROM_MUST_BE_NUM', 'Price From must be a number.');
-define('ERROR_PRICE_TO_MUST_BE_NUM', 'Price To must be a number.');
-define('ERROR_PRICE_TO_LESS_THAN_PRICE_FROM', 'Price To must be greater than or equal to Price From.');
-define('ERROR_INVALID_KEYWORDS', 'Invalid keywords.');
+define('ERROR_TO_DATE_LESS_THAN_FROM_DATE', 'Datum do musím být větší nebo rovno datum od.');
+define('ERROR_PRICE_FROM_MUST_BE_NUM', 'Cena od musí být číslo.');
+define('ERROR_PRICE_TO_MUST_BE_NUM', 'Cena do musí být číslo.');
+define('ERROR_PRICE_TO_LESS_THAN_PRICE_FROM', 'Cena do musí být vyšší nebo rovno cena od.');
+define('ERROR_INVALID_KEYWORDS', 'Neplatný výraz.');
 
 // text for date of birth example
 define('DOB_FORMAT_STRING', 'mm/dd/yyyy');
