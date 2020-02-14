@@ -18,5 +18,5 @@ define('HEADING_TITLE', 'Nastavení zasílání informací o novinkách');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER', 'Newsletter');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION', 'Zprávy o našem obchodu, nových produktech, zvláštních nabídkách a další oznámení.');
 
-define('SUCCESS_NEWSLETTER_UPDATED', 'Nastavení bylo upraveno.');
+define('SUCCESS_NEWSLETTER_UPDATED', 'Změny byly uloženy.');
 ?>
