@@ -10,10 +10,10 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'My Account');
-define('NAVBAR_TITLE_2', 'Edit Account');
+define('NAVBAR_TITLE_1', 'Můj účet');
+define('NAVBAR_TITLE_2', 'Upravit');
 
-define('HEADING_TITLE', 'My Account Information');
+define('HEADING_TITLE', 'Informace o mém účtu');
 
-define('SUCCESS_ACCOUNT_UPDATED', 'Your account has been successfully updated.');
+define('SUCCESS_ACCOUNT_UPDATED', 'Váš účet byl aktualizován.');
 
