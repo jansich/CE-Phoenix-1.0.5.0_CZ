@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Conditions of Use');
-define('HEADING_TITLE', 'Conditions of Use');
+define('NAVBAR_TITLE', 'Obchodní podmínky');
+define('HEADING_TITLE', 'Obchodní podmínky');
 
-define('TEXT_INFORMATION', 'Put here your Conditions of Use information.');
+define('TEXT_INFORMATION', 'Zde vložte Vaše obchodní podmínky.');
 ?>
