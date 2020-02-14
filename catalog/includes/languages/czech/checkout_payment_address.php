@@ -10,16 +10,16 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Checkout');
-define('NAVBAR_TITLE_2', 'Change Billing Address');
+define('NAVBAR_TITLE_1', 'Objednávka');
+define('NAVBAR_TITLE_2', 'Změnit fakturační adresu');
 
-define('HEADING_TITLE', 'Payment Choices');
+define('HEADING_TITLE', 'Změnit fakturační adresu');
 
-define('TABLE_HEADING_PAYMENT_ADDRESS', 'Billing Address');
+define('TABLE_HEADING_PAYMENT_ADDRESS', 'Fakturační adresa');
 
-define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Choose a saved Address');
+define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Vyberte z Vašeho adresáře');
 
-define('TABLE_HEADING_NEW_PAYMENT_ADDRESS', 'Save a new Address');
-define('TEXT_CREATE_NEW_PAYMENT_ADDRESS', 'Please use the following form to create and save a new address to use for this order.');
+define('TABLE_HEADING_NEW_PAYMENT_ADDRESS', 'Vytvořit novou adresu');
+define('TEXT_CREATE_NEW_PAYMENT_ADDRESS', 'Využijte následujícího formuláře pro vytvoření nové fakturační adresy.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Update My Address');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Uložit a pokračovat v objednávce');
