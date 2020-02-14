@@ -10,20 +10,20 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'My Account');
-define('NAVBAR_TITLE_2', 'Product Notifications');
+define('NAVBAR_TITLE_1', 'Můj účet');
+define('NAVBAR_TITLE_2', 'Informace o produktech');
 
-define('HEADING_TITLE', 'Product Notifications');
+define('HEADING_TITLE', 'Informace o produktech');
 
-define('MY_NOTIFICATIONS_TITLE', 'My Product Notifications');
-define('MY_NOTIFICATIONS_DESCRIPTION', 'The product notification list allows you to stay up to date on products you find of interest.<br /><br />To be up to date on all product changes, select <strong>Global Product Notifications</strong>.');
+define('MY_NOTIFICATIONS_TITLE', 'Sledování vybraných produktů');
+define('MY_NOTIFICATIONS_DESCRIPTION', 'Sledování produktů Vám umožňuje být informován o zboží, které Vás zajímá.<br /><br />Pro sledování všech položek našeho e-shopu vyberte <strong>Sledování všech produktů</strong>.');
 
-define('GLOBAL_NOTIFICATIONS_TITLE', 'Global Product Notifications');
-define('GLOBAL_NOTIFICATIONS_DESCRIPTION', 'Receive notifications on all available products.');
+define('GLOBAL_NOTIFICATIONS_TITLE', 'Sledování všech produktů');
+define('GLOBAL_NOTIFICATIONS_DESCRIPTION', 'Získávat informace o všech produktech');
 
-define('NOTIFICATIONS_TITLE', 'Product Notifications');
-define('NOTIFICATIONS_DESCRIPTION', 'To remove a product notification, clear the products checkbox and click on Continue.');
-define('NOTIFICATIONS_NON_EXISTING', 'There are currently no products marked to be notified on.<br /><br />To add products to your product notification list, click on the notification link available on the detailed product information page.');
+define('NOTIFICATIONS_TITLE', 'Sledování produktů');
+define('NOTIFICATIONS_DESCRIPTION', 'K odebrání produktu ze sledování odškrtněte políčko a klikněte na pokračovat.');
+define('NOTIFICATIONS_NON_EXISTING', 'V současné době nesledujete žádný produkt.<br /><br />Přidejte nový kliknutím na odkaz na stránce produktu.');
 
-define('SUCCESS_NOTIFICATIONS_UPDATED', 'Your product notifications have been successfully updated.');
+define('SUCCESS_NOTIFICATIONS_UPDATED', 'Nastavení bylo uloženo.');
 ?>
