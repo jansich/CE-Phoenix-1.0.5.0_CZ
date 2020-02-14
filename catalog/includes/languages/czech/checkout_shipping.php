@@ -10,15 +10,15 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Checkout');
-define('NAVBAR_TITLE_2', 'Delivery To You');
+define('NAVBAR_TITLE_1', 'Objednávka');
+define('NAVBAR_TITLE_2', 'Způsob doručení');
 
-define('HEADING_TITLE', 'Delivery To You');
+define('HEADING_TITLE', 'Způsob doručení');
 
-define('TABLE_HEADING_SHIPPING_ADDRESS', 'Delivery Address');
-define('TABLE_HEADING_SHIPPING_METHOD', 'Delivery Method');
+define('TABLE_HEADING_SHIPPING_ADDRESS', 'Doručovací adresa');
+define('TABLE_HEADING_SHIPPING_METHOD', 'Způsob doručení');
 
-define('TEXT_ENTER_SHIPPING_INFORMATION', 'This is currently the only shipping method available to use on this order.');
-define('ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS', 'Shipping is currently not available for the selected shipping address. Please select or create a new shipping address to use with your purchase.');
+define('TEXT_ENTER_SHIPPING_INFORMATION', 'Možné způsoby doručení Vaší zásilky.');
+define('ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS', 'Na Vaši adresu bohužel nemáme žádnou možnost doručení.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continue Checkout');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Pokračovat v objednávce');
