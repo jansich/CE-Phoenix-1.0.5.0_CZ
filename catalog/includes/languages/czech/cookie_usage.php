@@ -10,11 +10,11 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Cookie Usage');
-define('HEADING_TITLE', 'Cookie Usage');
+define('NAVBAR_TITLE', 'Používání Cookies');
+define('HEADING_TITLE', 'Používání Cookies');
 
-define('TEXT_INFORMATION', 'We have detected that your browser does not support cookies, or has set cookies to be disabled.<br /><br />To continue shopping online, we encourage you to enable cookies on your browser.<br /><br />For <strong>Internet Explorer</strong> browsers, please follow these instructions:<br /><ol><li>Click on the Tools menubar, and select Internet Options</li><li>Select the Security tab, and reset the security level to Medium</li></ol>We have taken this measurement of security for your benefit, and apologize upfront if any inconveniences are caused.<br /><br />Please <a class="btn btn-success btn-sm" role="button" href="' . tep_href_link('contact_us.php', '', 'SSL') . '">contact the store owner</a> if you have any questions relating to this requirement, or to continue purchasing products offline.');
+define('TEXT_INFORMATION', 'Váš prohlížeč nepodporuje cookies nebo máte použití cookies zakázáno.<br /><br />Pro pokračování v nákupu doporučujeme povolit cookies ve Vašem prohlížeči.<br /><br />Pro <strong>Internet Explorer</strong> postupujte dle těchto instrukcí:<br /><ol><li>Klikněte v menu prohlížeče na položku nástroje a vyberte "Možnosti internetu"</li><li>Vyberte záložku "Zabezpečení" a nastavte bezpečnostní úroveň na "Středně vysoké"</li></ol>Toto nastavení zabezpečení jsme provedli ve váš prospěch a omlouváme se předem, pokud dojde k nepříjemnostem.<br /><br />Prosím <a class="btn btn-success btn-sm" role="button" href="' . tep_href_link('contact_us.php', '', 'SSL') . '">kontaktujte nás</a> pokud máte nějaký dotaz na toto nastavení nebo pokud chcete udělat objednávku telefonicky.');
 
-define('BOX_INFORMATION_HEADING', 'Cookie Privacy and Security');
-define('BOX_INFORMATION', 'Cookies must be enabled to purchase online on this store to embrace privacy and security related issues regarding your visit to this site.<br /><br />By enabling cookie support on your browser, the communication between you and this site is strengthened to be certain it is you who are making transactions on your own behalf, and to prevent leakage of your privacy information.');
+define('BOX_INFORMATION_HEADING', 'Ochrana soukromí a soubory cookie');
+define('BOX_INFORMATION', 'Zde vložte Vaše informace o využití souborů cookies, zpracování osobních údajů (GDPR),...');
 
