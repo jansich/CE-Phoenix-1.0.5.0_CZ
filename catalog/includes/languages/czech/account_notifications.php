@@ -26,4 +26,3 @@ define('NOTIFICATIONS_DESCRIPTION', 'K odebrání produktu ze sledování odškr
 define('NOTIFICATIONS_NON_EXISTING', 'V současné době nesledujete žádný produkt.<br /><br />Přidejte nový kliknutím na odkaz na stránce produktu.');
 
 define('SUCCESS_NOTIFICATIONS_UPDATED', 'Nastavení bylo uloženo.');
-?>
