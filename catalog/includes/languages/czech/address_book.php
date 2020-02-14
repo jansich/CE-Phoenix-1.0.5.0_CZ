@@ -10,17 +10,17 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'My Account');
-define('NAVBAR_TITLE_2', 'Address Book');
+define('NAVBAR_TITLE_1', 'Můj účet');
+define('NAVBAR_TITLE_2', 'Adresář');
 
-define('HEADING_TITLE', 'My Personal Address Book');
+define('HEADING_TITLE', 'Můj adresář');
 
-define('PRIMARY_ADDRESS_TITLE', 'Primary Address');
-define('PRIMARY_ADDRESS_DESCRIPTION', 'This address is used as the pre-selected shipping and billing address for orders placed on this store.<br /><br />This address is also used as the base for product and service tax calculations.');
+define('PRIMARY_ADDRESS_TITLE', 'Výchozí adresa');
+define('PRIMARY_ADDRESS_DESCRIPTION', 'Tato adresa je nastavena jako výchozí pro Vaše objednávky.');
 
-define('ADDRESS_BOOK_TITLE', 'Address Book Entries');
+define('ADDRESS_BOOK_TITLE', 'Vaše adresy');
 
-define('PRIMARY_ADDRESS', '(primary address)');
+define('PRIMARY_ADDRESS', '(výchozí adresa)');
 
-define('TEXT_MAXIMUM_ENTRIES', '<span class="text-danger">NOTE:</span> A maximum of %s address book entries allowed.');
+define('TEXT_MAXIMUM_ENTRIES', '<span class="text-danger">POZNÁMKA:</span> V adresáři můžete mít až %s adres.');
 ?>
