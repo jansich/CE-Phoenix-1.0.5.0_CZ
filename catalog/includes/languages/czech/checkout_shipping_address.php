@@ -10,16 +10,16 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Checkout');
-define('NAVBAR_TITLE_2', 'Change Delivery Address');
+define('NAVBAR_TITLE_1', 'Objednávka');
+define('NAVBAR_TITLE_2', 'Změna doručovací adresy');
 
-define('HEADING_TITLE', 'Delivery Choices');
+define('HEADING_TITLE', 'Změna doručovací adresy');
 
-define('TABLE_HEADING_SHIPPING_ADDRESS', 'Selected Delivery Address');
+define('TABLE_HEADING_SHIPPING_ADDRESS', 'Aktuální doručovací adresa');
 
-define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Choose a saved Address');
+define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Vyberte adresu z adresáře');
 
-define('TABLE_HEADING_NEW_SHIPPING_ADDRESS', 'Save a new Address');
-define('TEXT_CREATE_NEW_SHIPPING_ADDRESS', 'Please use the following form to create and save a new address to use for this order.');
+define('TABLE_HEADING_NEW_SHIPPING_ADDRESS', 'Uložit novou adresu');
+define('TEXT_CREATE_NEW_SHIPPING_ADDRESS', 'Využijte následující formulář pro zadání nové adresy.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Update My Address');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Uložit a pokračovat v objednávce');
