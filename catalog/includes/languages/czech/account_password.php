@@ -19,4 +19,3 @@ define('MY_PASSWORD_TITLE', 'Změna hesla');
 
 define('SUCCESS_PASSWORD_UPDATED', 'Nastavení bylo uloženo.');
 define('ERROR_CURRENT_PASSWORD_NOT_MATCHING', 'Špatné heslo. Zkuste to znovu.');
-?>
