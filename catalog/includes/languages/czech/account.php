@@ -27,4 +27,3 @@ define('MY_ORDERS_VIEW', 'Zobrazit objednávky');
 define('EMAIL_NOTIFICATIONS_TITLE', 'Upozornění');
 define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Nastavení zasílání informací o novinkách');
 define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Nastavení zasílání informací o vybraných produktech');
-?>
