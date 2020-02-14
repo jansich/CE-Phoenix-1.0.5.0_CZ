@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Checkout');
-define('NAVBAR_TITLE_2', 'Success');
+define('NAVBAR_TITLE_1', 'Objednávka');
+define('NAVBAR_TITLE_2', 'Potvrzena');
 
-define('TABLE_HEADING_COMMENTS', 'Enter a comment for the order processed');
+define('TABLE_HEADING_COMMENTS', 'Zde vložte nějaký komentář, poděkování, další postup vyřizování objednávky,...');
