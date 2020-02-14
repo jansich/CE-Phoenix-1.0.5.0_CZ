@@ -15,5 +15,5 @@ define('NAVBAR_TITLE_2', 'Upravit');
 
 define('HEADING_TITLE', 'Informace o mém účtu');
 
-define('SUCCESS_ACCOUNT_UPDATED', 'Váš účet byl aktualizován.');
+define('SUCCESS_ACCOUNT_UPDATED', 'Změny byly uloženy.');
 
