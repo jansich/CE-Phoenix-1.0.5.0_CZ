@@ -10,13 +10,13 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'My Account');
-define('NAVBAR_TITLE_2', 'Change Password');
+define('NAVBAR_TITLE_1', 'Můj účet');
+define('NAVBAR_TITLE_2', 'Změna hesla');
 
-define('HEADING_TITLE', 'My Password');
+define('HEADING_TITLE', 'Změna hesla');
 
-define('MY_PASSWORD_TITLE', 'My Password');
+define('MY_PASSWORD_TITLE', 'Změna hesla');
 
-define('SUCCESS_PASSWORD_UPDATED', 'Your password has been successfully updated.');
-define('ERROR_CURRENT_PASSWORD_NOT_MATCHING', 'Your Current Password did not match the password in our records. Please try again.');
+define('SUCCESS_PASSWORD_UPDATED', 'Nastavení bylo uloženo.');
+define('ERROR_CURRENT_PASSWORD_NOT_MATCHING', 'Špatné heslo. Zkuste to znovu.');
 ?>
