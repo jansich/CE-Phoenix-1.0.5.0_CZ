@@ -10,15 +10,15 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Checkout');
-define('NAVBAR_TITLE_2', 'Payment From You');
+define('NAVBAR_TITLE_1', 'Objednávka');
+define('NAVBAR_TITLE_2', 'Způsob platby');
 
-define('HEADING_TITLE', 'Payment From You');
+define('HEADING_TITLE', 'Způsob platby');
 
-define('TABLE_HEADING_BILLING_ADDRESS', 'Billing Address');
+define('TABLE_HEADING_BILLING_ADDRESS', 'Fakturační adresa');
 
-define('TABLE_HEADING_PAYMENT_METHOD', 'Payment Method');
+define('TABLE_HEADING_PAYMENT_METHOD', 'Způsob platby');
 
-define('TEXT_ENTER_PAYMENT_INFORMATION', 'This is currently the only payment method available to use on this order.');
+define('TEXT_ENTER_PAYMENT_INFORMATION', 'Toto je jediný způsob platby pro daný způsob přepravy.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continue Checkout');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Pokračovat v objednávce');
