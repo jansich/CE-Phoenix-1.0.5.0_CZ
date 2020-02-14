@@ -23,4 +23,3 @@ define('ADDRESS_BOOK_TITLE', 'Vaše adresy');
 define('PRIMARY_ADDRESS', '(výchozí adresa)');
 
 define('TEXT_MAXIMUM_ENTRIES', '<span class="text-danger">POZNÁMKA:</span> V adresáři můžete mít až %s adres.');
-?>
