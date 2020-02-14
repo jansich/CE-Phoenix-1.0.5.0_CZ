@@ -36,4 +36,3 @@ define('WARNING_PRIMARY_ADDRESS_DELETION', 'Výchozí adresa nemůže být smaz�
 
 define('ERROR_NONEXISTING_ADDRESS_BOOK_ENTRY', 'Adresa v adresáři neexistuje.');
 define('ERROR_ADDRESS_BOOK_FULL', 'Váš adresář je plný. Smažte nepotřebné adresy před přidáním nových.');
-?>
