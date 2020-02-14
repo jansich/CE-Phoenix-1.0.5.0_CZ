@@ -19,4 +19,3 @@ define('MY_NEWSLETTERS_GENERAL_NEWSLETTER', 'Newsletter');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION', 'Zprávy o našem obchodu, nových produktech, zvláštních nabídkách a další oznámení.');
 
 define('SUCCESS_NEWSLETTER_UPDATED', 'Změny byly uloženy.');
-?>
