@@ -35,3 +35,4 @@ define('HEADING_QTY', 'Množství');
 
 define('LIST_PRODUCTS', 'Produkty');
 define('ORDER_DETAILS', 'Detail objednávky');
+?>
