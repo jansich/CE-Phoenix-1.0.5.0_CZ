@@ -38,4 +38,3 @@ define('TEXT_NO_COMMENTS_AVAILABLE', 'Žádné poznámky.');
 define('TABLE_HEADING_DOWNLOAD_DATE', 'Platnost odkazu do: ');
 define('TABLE_HEADING_DOWNLOAD_COUNT', ' stažení zbývá');
 define('HEADING_DOWNLOAD', 'Odkazy pro stažení');
-?>
