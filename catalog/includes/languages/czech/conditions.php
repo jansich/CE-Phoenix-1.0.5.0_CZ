@@ -14,4 +14,3 @@ define('NAVBAR_TITLE', 'Obchodní podmínky');
 define('HEADING_TITLE', 'Obchodní podmínky');
 
 define('TEXT_INFORMATION', 'Zde vložte Vaše obchodní podmínky.');
-?>
